@@ -1,5 +1,3 @@
 node_modules/
 *.json 
 !package.json
-projeto1/
-treino1/
